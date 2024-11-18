@@ -6,10 +6,10 @@ No link a seguir você pode fazer download de um documento de requisitos para um
 * [Exemplo de Documento de Requisitos - JARVIS.pdf](https://github.com/user-attachments/files/17388495/Exemplo.de.Documento.de.Requisitos.-.JARVIS.pdf)
 
 # Integrantes do Grupo
-1) 
-2) 
-3) 
-4) 
+1) gabriel dos santos cotrim
+2) vitor emanuel
+3) eloah
+4) virginia
 5) 
 
 # Documento de Requisitos
